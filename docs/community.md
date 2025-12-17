@@ -59,6 +59,7 @@ breadcrumbs: ["База знаний Meshtastic", "Русскоязычные с
 | Курск | [@meshtastic_kur](https://t.me/meshtastic_kur) |
 | ЛНР | [@meshtastic_lnr](https://t.me/meshtastic_lnr) |
 | Магнитогорск | [@meshtastic_m](https://t.me/meshtastic_m) |
+| Миасс | [@meshtastic_m](https://t.me/meshtastic_miass) |
 | Москва | [@meshtastic_moscow](https://t.me/meshtastic_moscow) |
 | Мурманск | [@meshtastic_51](https://t.me/meshtastic_51) |
 | Набережные Челны | [@meshtastic_chelny](https://t.me/meshtastic_chelny) |
